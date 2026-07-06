@@ -1,6 +1,6 @@
 # 👁️ HybridSight
 
-HybridSight is a hybrid AI agent built during **MSTC GenAI Track 2026 – Week 5**.
+HybridSight is a hybrid multi-modal AI agent.
 
 It combines:
 
@@ -176,7 +176,7 @@ Expected:
 
 📷 Screenshot:
 
-![RAG Test][RAG_Test]
+![RAG Test][images/rag.png]
 
 ---
 
@@ -207,7 +207,7 @@ Expected:
 
 📷 Screenshot:
 
-![wikipedia](wikipedia.png)
+![wikipedia](images/wikipedia.png)
 
 ---
 
@@ -226,7 +226,7 @@ Expected:
 
 📷 Screenshot:
 
-![Vision](Vision.png)
+![Vision](images/Vision.png)
 
 ---
 
