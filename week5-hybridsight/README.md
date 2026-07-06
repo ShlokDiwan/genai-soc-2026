@@ -176,7 +176,7 @@ Expected:
 
 📷 Screenshot:
 
-![RAG Test][images/rag.png]
+![rag](images/rag.png)
 
 ---
 
